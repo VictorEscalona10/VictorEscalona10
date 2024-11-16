@@ -15,41 +15,55 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 ¡Hola, soy [Tu Nombre]!
-🧑‍💻 Desarrollador Web Backend
-🚀 Sobre mí
-Soy un apasionado desarrollador backend especializado en crear aplicaciones web robustas, eficientes y escalables. Mi enfoque está en resolver problemas complejos y construir sistemas que funcionen como una máquina bien engrasada.
+# 👋 ¡Hola, soy Victor!  
+### 🧑‍💻 **Desarrollador Web Backend**
 
-🌟 Mis habilidades
+---
 
-⚙️ Lenguajes y Tecnologías:
+🚀 **Sobre mí**  
+Soy un apasionado desarrollador backend especializado en crear aplicaciones web robustas, eficientes y escalables. Mi enfoque está en resolver problemas complejos y construir sistemas que funcionen como una máquina bien engrasada.  
 
+---
 
+🌟 **Mis habilidades**  
 
+#### ⚙️ **Lenguajes y Tecnologías**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-🛠️ Frameworks y Herramientas:
+#### 🛠️ **Frameworks y Herramientas**  
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)  
 
+#### 🗂️ **Bases de Datos**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
+---
 
-🗂️ Bases de Datos:
+📈 **Mi enfoque**  
+- 🔍 Resolver problemas del lado del servidor.  
+- ⚡ Optimización de rendimiento.  
+- 📦 Integración de APIs RESTful y GraphQL.  
+- 🔐 Seguridad en aplicaciones web.  
 
+---
 
-📈 Mi enfoque
-🔍 Resolver problemas del lado del servidor.
-⚡ Optimización de rendimiento.
-📦 Integración de APIs RESTful y GraphQL.
-🔐 Seguridad en aplicaciones web.
+🛠️ **Proyectos destacados**  
+- **[Nombre del Proyecto 1](#)**: Breve descripción del proyecto, con un enfoque en su impacto.  
+- **[Nombre del Proyecto 2](#)**: Otro proyecto, destacando tu rol como backend.  
 
-🛠️ Proyectos destacados
+---
 
-Nombre del Proyecto 1: Breve descripción del proyecto, con un enfoque en su impacto.
-Nombre del Proyecto 2: Otro proyecto, destacando tu rol como backend.
-🤝 Hablemos de código
+🤝 **Hablemos de código**  
+- 🌍 **Ubicación**: Venezuela  
+- 💌 **Contacto**: victorescalona2006@gmail.com 
+- 💼 **LinkedIn**:  
 
-🌍 Ubicación: [Tu País/Región]
-💌 Contacto: [Tu correo o link a tu portafolio]
-💼 LinkedIn: [Tu LinkedIn aquí]
-🎯 Siempre aprendiendo: Actualmente explorando [tecnología o concepto que estés aprendiendo].
+🎯 **Siempre aprendiendo**: Actualmente explorando Data Science.  
 
-¡Gracias por pasarte por aquí! 😊 Dale una estrella ⭐️ a mis repositorios si encuentras algo interesante.
+---
 
+¡Gracias por pasarte por aquí! 😊 Dale una estrella ⭐️ a mis repositorios si encuentras algo interesante.  
