@@ -8,7 +8,7 @@
 
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -75,7 +75,7 @@
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+    <img src="https://profile-counter.glitch.me/VictorEscalona10/count.svg"/>
   </div> 
 </p>
 
